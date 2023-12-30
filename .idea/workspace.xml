@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="161d88b8-375d-48cf-bc65-3643cf2d7ff5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSC372 CT2/src/BankBalanceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSC372/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/out/production/CSC372/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSC372/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/out/production/CSC372/CheckingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSC372/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/out/production/CSC372/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/src/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/src/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2aF27eEh2AF4lO4CysRdNbcY25e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "C:/Users/15707/Github/CSC372 CT2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15707\Github\csc372\Critical Thinking 2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15707\Github\csc372" />
+      <recent name="C:\Users\15707\Github\csc372\Critical Thinking 1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BankBalanceApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BankBalanceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankBalanceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jdk.tools.jmod.Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Critical Thinking 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankBalanceApp (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BankBalanceApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="161d88b8-375d-48cf-bc65-3643cf2d7ff5" name="Changes" comment="" />
+      <created>1703899841147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703899841147</updated>
+    </task>
+    <servers />
+  </component>
+</project>
