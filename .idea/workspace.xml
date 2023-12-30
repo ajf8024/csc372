@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="161d88b8-375d-48cf-bc65-3643cf2d7ff5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSC372 CT2/src/BankBalanceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSC372 CT2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSC372.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSC372/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/out/production/CSC372/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSC372/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/out/production/CSC372/CheckingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSC372/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/out/production/CSC372/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/src/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/src/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CT1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT1/CT1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2/CSC372 CT2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2/CT2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +35,18 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/15707/Github/CSC372 CT2",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "C:/Users/15707/Github/csc372/CT2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15707\Github\csc372\CritThinking2\src" />
       <recent name="C:\Users\15707\Github\csc372\Critical Thinking 2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -68,6 +59,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="BankBalanceApp" />
+      <module name="CT2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,14 +77,15 @@
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CT1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankBalanceApp (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BankBalanceApp (1)" />
         <item itemvalue="Application.BankBalanceApp" />
       </list>
     </recent_temporary>
