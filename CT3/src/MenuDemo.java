@@ -62,7 +62,7 @@ class MenuDemo implements ActionListener {
         }
 
         if (ae.getSource() == m3) {
-            //Get rando color of green within the spectrum (fucking autist))
+            //Get rando color of green within the spectrum
             float randoHue = (float) (0.25 + new Random().nextDouble() * 0.2);
             Color randoGreen = Color.getHSBColor(randoHue, 1, 1);
             // Change the background color of the content pane
