@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="161d88b8-375d-48cf-bc65-3643cf2d7ff5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CT5/CT5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT6/CT6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT7/CT7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/CT1/CT1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/CT2/CSC372 CT2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/CT2/CT2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/CT3/CT3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT6/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT1/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT1/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT2/BankBalanceApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT3/MenuDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT4/Cone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT4/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT4/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT4/Sphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT1/out/production/CT5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT5/CT5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CT5/CT5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT6/CT6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CT6/Main/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +67,12 @@
       <recent name="C:\Users\15707\Github\csc372\Critical Thinking 2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15707\Github\csc372\CT6\src" />
       <recent name="C:\Users\15707\Github\csc372" />
       <recent name="C:\Users\15707\Github\csc372\Critical Thinking 1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="BankBalanceApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -84,6 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CT6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -95,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BankBalanceApp (1)" />
         <item itemvalue="Application.BankBalanceApp" />
